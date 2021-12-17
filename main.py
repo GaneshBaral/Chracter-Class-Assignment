@@ -1,5 +1,6 @@
 #Character class assignment - Ganesh Baral 
 
+# Create Class
 class Character:
     def __init__(self, name, phrase1, phrase2,):
         self.name = name
